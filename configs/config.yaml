@@ -1,0 +1,7 @@
+openweathermap:
+  api_key: "d2ff09da810369613b9c06433149b49c"
+kafka:
+  bootstrap_servers: "localhost:9092"
+  topic: "weather_data"
+aws:
+  s3_bucket: "weather-data-luser403-2025"  # Your bucket name
